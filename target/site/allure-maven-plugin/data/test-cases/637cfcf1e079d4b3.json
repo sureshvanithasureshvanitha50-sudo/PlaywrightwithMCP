@@ -1,0 +1,92 @@
+{
+  "uid" : "637cfcf1e079d4b3",
+  "name" : "fillDataEntryForm",
+  "fullName" : "com.demo.tests.PlaywrightFormFlowTest.fillDataEntryForm",
+  "historyId" : "24bc8684fd0c39d70c1759f99a64f964",
+  "time" : {
+    "start" : 1782803314724,
+    "stop" : 1782803318644,
+    "duration" : 3920
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1782803309273,
+      "stop" : 1782803314573,
+      "duration" : 5300
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1782803318656,
+      "stop" : 1782803318894,
+      "duration" : 238
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.demo.tests.PlaywrightFormFlowTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.demo.tests.PlaywrightFormFlowTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "fillDataEntryForm"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.demo.tests.PlaywrightFormFlowTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-TA9O8J6"
+  }, {
+    "name" : "thread",
+    "value" : "1928@DESKTOP-TA9O8J6.main(3)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "637cfcf1e079d4b3.json",
+  "parameterValues" : [ ]
+}

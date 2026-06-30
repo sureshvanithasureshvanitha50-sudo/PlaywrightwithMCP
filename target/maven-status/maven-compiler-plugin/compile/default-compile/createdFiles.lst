@@ -1,0 +1,3 @@
+com\demo\locators\LoginPageLocators.class
+com\demo\pages\LoginPage.class
+com\demo\data\TestData.class

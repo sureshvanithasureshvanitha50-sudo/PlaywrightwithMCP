@@ -1,0 +1,47 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "PlaywrightFormFlowTest",
+    "children" : [ {
+      "name" : "fillDataEntryForm",
+      "uid" : "ff8906366c41e75",
+      "parentUid" : "0a7276fcd3c2e74c56fcc3bac35d5de7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1719820000000,
+        "stop" : 1719820044780,
+        "duration" : 44780
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "0a7276fcd3c2e74c56fcc3bac35d5de7"
+  }, {
+    "name" : "Surefire suite",
+    "children" : [ {
+      "name" : "Surefire test",
+      "children" : [ {
+        "name" : "com.demo.tests.PlaywrightFormFlowTest",
+        "children" : [ {
+          "name" : "fillDataEntryForm",
+          "uid" : "a63f2e8608e1f5af",
+          "parentUid" : "d9dc450d6a56c5848b4f8a733c2c101e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1782804608481,
+            "stop" : 1782804612830,
+            "duration" : 4349
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "d9dc450d6a56c5848b4f8a733c2c101e"
+      } ],
+      "uid" : "1fcb2e6ec8e5b5e8a1f2a70b87c80b24"
+    } ],
+    "uid" : "940a09faf31371a51747026c9d178f0a"
+  } ]
+}

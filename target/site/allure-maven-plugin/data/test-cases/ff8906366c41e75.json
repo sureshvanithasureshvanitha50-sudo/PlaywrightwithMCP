@@ -1,0 +1,44 @@
+{
+  "uid" : "ff8906366c41e75",
+  "name" : "fillDataEntryForm",
+  "fullName" : "com.demo.tests.PlaywrightFormFlowTest.fillDataEntryForm",
+  "historyId" : "playwright-0001",
+  "time" : {
+    "start" : 1719820000000,
+    "stop" : 1719820044780,
+    "duration" : 44780
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.demo.tests"
+  }, {
+    "name" : "testClass",
+    "value" : "com.demo.tests.PlaywrightFormFlowTest"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "suite",
+    "value" : "PlaywrightFormFlowTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ff8906366c41e75.json",
+  "parameterValues" : [ ]
+}

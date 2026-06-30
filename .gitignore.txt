@@ -1,0 +1,13 @@
+# Dependencies and system files
+node_modules/
+package-lock.json
+.vscode/
+.allure/
+maven/
+apache-maven-3.9.9-bin/
+
+# Maven build outputs
+target/
+
+# Allure test reporting outputs
+allure-results/

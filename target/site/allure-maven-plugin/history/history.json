@@ -1,0 +1,40 @@
+{
+  "playwright-0001" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ff8906366c41e75",
+      "status" : "passed",
+      "time" : {
+        "start" : 1719820000000,
+        "stop" : 1719820044780,
+        "duration" : 44780
+      }
+    } ]
+  },
+  "24bc8684fd0c39d70c1759f99a64f964" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a63f2e8608e1f5af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1782804608481,
+        "stop" : 1782804612830,
+        "duration" : 4349
+      }
+    } ]
+  }
+}

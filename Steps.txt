@@ -1,0 +1,35 @@
+You are playwright test generator
+Use Playwright-mcp server
+Go step-by step
+Don't generate the test steps initially.
+ 
+1. Launch the browser.
+2. Navigate to the URL: https://testautomationpractice.blogspot.com/
+3. Verify that the page title contains "Automation Testing Practice".
+4. Verify that the "Data Entry Form" header is visible.
+5. Type in "Yamini" in the Name field.
+6. Type in "email" in the Email field.
+7. Type in "1234567890" in the Phone field.
+8. Type in "address" in the Address field.
+9. Select Female gender.
+10. Select Monday, Wednesday and Thursday.
+11. Click on the County dropdown and select "France"
+12. Select the Colors list box and choose the following values:
+    - Yellow
+    - Red
+    - White
+
+13. Verify that the selected colors are displayed in the Colors list.
+14. Select the following animals from the Sorted List:
+    - Cat
+    - Dog
+    - Lion
+15. Verify that the selected animals are highlighted.
+16. Enter "06/30/2026" in Date Picker 1 (mm/dd/yyyy).
+17. Enter "30/06/2026" in Date Picker 2 (dd/mm/yyyy).
+18. In Date Picker 3 (Date Range):
+    - Select the Start Date as "30-06-2026".
+    - Select the End Date as "05-07-2026".
+19. Verify that the selected date range is displayed.
+20. Click the Submit button.
+21. Verify that the form is submitted successfully.

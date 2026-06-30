@@ -1,0 +1,247 @@
+{
+  "uid" : "a63f2e8608e1f5af",
+  "name" : "fillDataEntryForm",
+  "fullName" : "com.demo.tests.PlaywrightFormFlowTest.fillDataEntryForm",
+  "historyId" : "24bc8684fd0c39d70c1759f99a64f964",
+  "time" : {
+    "start" : 1782804608481,
+    "stop" : 1782804612830,
+    "duration" : 4349
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1782804598406,
+      "stop" : 1782804608116,
+      "duration" : 9710
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Open form page",
+      "time" : {
+        "start" : 1782804608488,
+        "stop" : 1782804611768,
+        "duration" : 3280
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Verify page title and heading",
+      "time" : {
+        "start" : 1782804611769,
+        "stop" : 1782804611863,
+        "duration" : 94
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Fill form fields",
+      "time" : {
+        "start" : 1782804611864,
+        "stop" : 1782804612018,
+        "duration" : 154
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Select gender and checkboxes",
+      "time" : {
+        "start" : 1782804612025,
+        "stop" : 1782804612633,
+        "duration" : 608
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Choose options",
+      "time" : {
+        "start" : 1782804612633,
+        "stop" : 1782804612673,
+        "duration" : 40
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Fill dates and submit",
+      "time" : {
+        "start" : 1782804612673,
+        "stop" : 1782804612803,
+        "duration" : 130
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "name" : "Page title",
+      "type" : "text/plain",
+      "size" : 0
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "stepsCount" : 6,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1782804612847,
+      "stop" : 1782804613657,
+      "duration" : 810
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.demo.tests.PlaywrightFormFlowTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.demo.tests.PlaywrightFormFlowTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "fillDataEntryForm"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.demo.tests.PlaywrightFormFlowTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-TA9O8J6"
+  }, {
+    "name" : "thread",
+    "value" : "15164@DESKTOP-TA9O8J6.main(3)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f08ffe66c196de30",
+      "status" : "passed",
+      "time" : {
+        "start" : 1782804341473,
+        "stop" : 1782804345771,
+        "duration" : 4298
+      }
+    }, {
+      "uid" : "9af40a76072dad2e",
+      "status" : "broken",
+      "statusDetails" : "Unresolved compilation problem: \n\tThe method addAttachment(String, String, String) in the type Allure is not applicable for the arguments (String, String, ByteArrayInputStream)\n",
+      "time" : {
+        "start" : 1782804234769,
+        "stop" : 1782804234789,
+        "duration" : 20
+      }
+    }, {
+      "uid" : "637cfcf1e079d4b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1782803314724,
+        "stop" : 1782803318644,
+        "duration" : 3920
+      }
+    }, {
+      "uid" : "2506e3eff28b62a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1782802155171,
+        "stop" : 1782802159023,
+        "duration" : 3852
+      }
+    }, {
+      "uid" : "1d279af2e0171b5d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1782800638595,
+        "stop" : 1782800642511,
+        "duration" : 3916
+      }
+    }, {
+      "uid" : "c62fa081af6cfbe7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1782799377189,
+        "stop" : 1782799381976,
+        "duration" : 4787
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a63f2e8608e1f5af.json",
+  "parameterValues" : [ ]
+}

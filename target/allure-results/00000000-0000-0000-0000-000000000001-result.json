@@ -1,0 +1,16 @@
+{
+  "name": "SimpleAllureTest.basic",
+  "uuid": "00000000-0000-0000-0000-000000000001",
+  "historyId": "0001",
+  "status": "passed",
+  "stage": "finished",
+  "parameters": [],
+  "steps": [],
+  "attachments": [],
+  "labels": [
+    {"name":"package","value":"com.demo.tests"},
+    {"name":"testClass","value":"com.demo.tests.SimpleAllureTest"},
+    {"name":"framework","value":"testng"}
+  ],
+  "links": []
+}

@@ -1,0 +1,20 @@
+{
+  "name": "fillDataEntryForm",
+  "fullName": "com.demo.tests.PlaywrightFormFlowTest.fillDataEntryForm",
+  "uuid": "00000000-0000-0000-0000-000000000002",
+  "historyId": "playwright-0001",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1719820000000,
+  "stop": 1719820044780,
+  "parameters": [],
+  "steps": [],
+  "attachments": [],
+  "labels": [
+    {"name":"package","value":"com.demo.tests"},
+    {"name":"testClass","value":"com.demo.tests.PlaywrightFormFlowTest"},
+    {"name":"framework","value":"testng"},
+    {"name":"suite","value":"PlaywrightFormFlowTest"}
+  ],
+  "links": []
+}

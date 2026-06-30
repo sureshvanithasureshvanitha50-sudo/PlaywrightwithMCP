@@ -1,0 +1,74 @@
+{
+  "playwright-0001" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4950ade65fee82c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1719820000000,
+        "stop" : 1719820044780,
+        "duration" : 44780
+      }
+    } ]
+  },
+  "b2d282f4933f55f400512c88effcc08d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "78f266d1be65eb00",
+      "status" : "passed",
+      "time" : {
+        "start" : 1782799162671,
+        "stop" : 1782799162687,
+        "duration" : 16
+      }
+    } ]
+  },
+  "0001" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "24b45131e27c1614",
+      "status" : "passed",
+      "time" : { }
+    } ]
+  },
+  "24bc8684fd0c39d70c1759f99a64f964" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a84aff8b43da31",
+      "status" : "passed",
+      "time" : {
+        "start" : 1782799377189,
+        "stop" : 1782799381976,
+        "duration" : 4787
+      }
+    } ]
+  }
+}
